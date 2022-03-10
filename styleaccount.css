@@ -1,0 +1,55 @@
+.account-initials {
+    background-image: url(./images/istockphoto-1280385511-170667a.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 150vh;
+    padding-top: 25px;
+}
+.account-intro {
+    background-color: rgb(127, 206, 255);
+    width: 75%;
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}
+.account-details {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    color: rgb(33, 2, 54);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 0;
+    padding: 2%;
+    font-weight: bold;
+}
+.form-groups {
+    height: 40px;
+    text-align: left;
+    width: 95%;
+}
+.btn {
+    background-color: rgb(33, 2, 54);
+    color: white;
+    position: relative;
+    font-weight: bold;
+}
+
+    /* Style the lean footer */
+.lean-footer {
+    background-color: rgb(33, 2, 54);
+    color: white; 
+}
+.footer-tail {
+    display: flex;
+    flex-direction: row;
+}
+
+.copyright, .social-media, .other-offers {
+    text-align: right;
+    margin: 2%;
+}
+
+
+

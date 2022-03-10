@@ -1,0 +1,65 @@
+
+    /* 01. Style the sign up part */
+.sign-up {
+    display: flex;
+    flex-direction: column;background-image: url(./images/CB-Background-93.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    padding-top: 25px;
+    border-collapse: collapse;
+}
+.sign-up .welcome {
+    background-color: greenyellow;
+    width: 75%;
+    color: white;
+    border-collapse: collapse;
+}
+.intro-form h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.sign-up .register-form, intro-form {
+    background-color:  green;
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-top: 0;
+    color: rgb(33, 2, 54);
+    padding: 10px; 
+    font-weight: bold;
+    opacity: 0.9;
+}
+.sign-up a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.form-groups {
+    height: 40px;
+    text-align: left;
+    width: 95%;
+}
+.btn {
+    background-color: rgb(33, 2, 54);
+    color: white;
+    position: relative;
+    font-weight: bold;
+}
+
+    /* Style the lean footer */
+.lean-footer {
+    background-color: rgb(33, 2, 54);
+    color: white; 
+}
+.footer-tail {
+    display: flex;
+    flex-direction: row;
+}
+
+.copyright, .social-media, .other-offers {
+    text-align: right;
+    margin: 2%;
+}
